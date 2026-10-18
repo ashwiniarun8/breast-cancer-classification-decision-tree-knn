@@ -31,7 +31,7 @@
 | F1-score (weighted) | 94.74% | 94.74% |
 | Correct predictions | 108/114 | 108/114 |
 
-Confusion matrix for both models:**
+Confusion matrix for both models:
 
 
 [[40  3]
